@@ -1,5 +1,8 @@
 # Machine_Learning_Basic
 
+This repository includes basic machine learning examples such as classification, linear regression, SVM, and so on.
+All of code samples are from Machine Learning Lecture in Sooncheonhyang University, and lecture CS229
+
 ---
 
 ## 🚀 Getting Started
