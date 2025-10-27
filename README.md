@@ -1,7 +1,5 @@
 # Machine_Learning_Basic
 
-> [A brief, one-sentence description of your project goes here.]
-
 ---
 
 ## 🚀 Getting Started
@@ -59,9 +57,9 @@ pip install torch torchvision torchaudio --index-url [https://download.pytorch.o
 
 ## 💻 Usage
 
-[Explain how to run your project here. Provide code examples if necessary.]
+The modules will make sample dataset automatically.
 
 ```bash
-# Example: Run the main script
-python main.py --input [your_input]
+# Example: Run the classification model
+python -m classification.classification
 ```
